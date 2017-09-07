@@ -1,9 +1,11 @@
 body {
 	background-color: #000;
 	margin: 0;
+	font-family: sans-serif;
 }
 h1 {
 	text-align: center;
 	padding-top: 20%;
-	
+	background-color: #fff;
+	text-transform: uppercase;
 }
